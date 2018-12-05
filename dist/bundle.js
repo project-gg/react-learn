@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("alert(\"Hello World!\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9qcy9pbmRleC5qc3guanMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9qcy9pbmRleC5qc3g/Y2QxMCJdLCJzb3VyY2VzQ29udGVudCI6WyJhbGVydChcIkhlbGxvIFdvcmxkIVwiKTsiXSwibWFwcGluZ3MiOiJBQUFBIiwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./js/index.jsx\n");
+eval("throw new Error(\"Module parse failed: Unexpected token (5:16)\\nYou may need an appropriate loader to handle this file type.\\n| import ReactDOM from \\\"react-dom\\\";\\n| import App from \\\"./App\\\";\\n> ReactDOM.render(<App />, document.getElementById(\\\"content\\\"));\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9qcy9pbmRleC5qc3guanMiLCJzb3VyY2VzIjpbXSwibWFwcGluZ3MiOiIiLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./js/index.jsx\n");
 
 /***/ })
 
